@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.genruntimeconfig.cache
